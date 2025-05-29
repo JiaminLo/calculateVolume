@@ -34,3 +34,8 @@ assert_equal "Error: Exactly 3 arguments required." 3 4
 
 echo "Test 7: Extra parameter"
 assert_equal "Error: Exactly 3 arguments required." 3 4 5 6
+
+#echo "Test 8: Scientific notation"
+#echo "Test 9: Minimum value test"
+#echo "Test 10: Maximum value test"
+
